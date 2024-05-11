@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Luhaozhe,an student at Nankai University~
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Luhaozhhhe!;Welcome+to+my+homepage!)](https://github.com/Luhaozhhhe)
 
 
 - 🔭 I’m currently an undergraduate student at Nankai University.
