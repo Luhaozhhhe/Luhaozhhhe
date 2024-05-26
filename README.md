@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
 
-
+整理了**南开大学计算机学院和网络空间安全学院的学习资料**，在github上不是很全，若有需要请**微信联系/邮箱联系/飞书联系**
 
 ![Luhaozhhhe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhaozhhhe&layout=compact&hide_border=true&langs_count=10)
 
