@@ -2,9 +2,10 @@
 
 
 
-- 🔭 I’m currently an undergraduate student at Nankai University.
-- 🌱 I’m currently learning Cyber Science and Finance!
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently an undergraduate student at **Nankai University**.
+- 🌱 I’m currently learning **Cyber Science** and **Finance**!
+- 👯 I’m learning **Crypto**!
+- 🌱 I'm interesting in programming with **Python**!
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
 
 整理了**南开大学计算机学院和网络空间安全学院的学习资料**，在github上不是很全，若有需要请**微信联系/邮箱联系/飞书联系**
