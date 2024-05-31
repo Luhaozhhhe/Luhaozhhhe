@@ -9,7 +9,7 @@
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
 
 整理了**南开大学计算机学院和网络空间安全学院的学习资料**，链接：https://pan.baidu.com/s/1CEVUUAwio9LlW7iC51svaw?pwd=NKU1 
-提取码：NKU1
+
 
 ![Luhaozhhhe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhaozhhhe&layout=compact&hide_border=true&langs_count=10)
 
