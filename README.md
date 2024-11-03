@@ -7,6 +7,10 @@
 - 👯 I’m learning **Crypto**!
 - 🌱 I'm interesting in programming with **Python**!
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
+- 🌱 my blog：**https://luhaozhhhe.github.io/**,welcome to Luhaozhhhe's blog!
+- 🔭 Honors:
+  -  National Scholarship for the 2023-2024 Academic Year
+  -  First Prize in the Beijing-Tianjin-Hebei University Student Information Security Competition
 
 
 
