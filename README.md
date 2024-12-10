@@ -22,6 +22,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Luhaozhhhe/count.s
 - 大一上：链接: https://pan.baidu.com/s/1myPJQb0Jp6uPDQd2qJAjaA?pwd=38q5 提取码: 38q5
 - 大一下：链接: https://pan.baidu.com/s/1eUDcMwn87KHkgidm1uHvWA?pwd=tj29 提取码: tj29
 - 大二上：链接: https://pan.baidu.com/s/1iVTqx717vzqX3aJKVE8UBw?pwd=234s 提取码: 234s
-- 大二下：链接: https://pan.baidu.com/s/1Hxq1fDTYrnQkvHYQTKJ2Og?pwd=r26s 提取码: r26s
+- 大二下：链接: https://pan.baidu.com/s/1__FSr1ReOOjt8keLCa3kJg?pwd=ss6a 提取码: ss6a
 
 <img  top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
