@@ -23,5 +23,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Luhaozhhhe/count.s
 - 大一下：链接: https://pan.baidu.com/s/1eUDcMwn87KHkgidm1uHvWA?pwd=tj29 提取码: tj29
 - 大二上：链接: https://pan.baidu.com/s/1iVTqx717vzqX3aJKVE8UBw?pwd=234s 提取码: 234s
 - 大二下：链接: https://pan.baidu.com/s/1__FSr1ReOOjt8keLCa3kJg?pwd=ss6a 提取码: ss6a
+- 大三上：链接：
+- **信息安全全部课程笔记：** 链接: https://pan.baidu.com/s/1pjCjDxeJ-8Xm--pZgXFW7w?pwd=NKU1 提取码: NKU1
 
 <img  top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
