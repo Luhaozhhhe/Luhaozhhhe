@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently an undergraduate student at **Nankai University**.
-- 🌱 I’m currently learning **Cyber Science** and **Finance**!
-- 👯 I’m learning **Crypto**!
+- 🔭 I'm currently an undergraduate student at **Nankai University**.
+- 🌱 I'm currently learning **Cyber Science** and **Finance**!
+- 👯 I'm learning **Crypto**!
 - 🌱 I'm interesting in programming with **Python**!
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
 - 🌱 my blog：https://luhaozhhhe.github.io/ ,welcome to Luhaozhhhe's blog!
