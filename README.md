@@ -8,9 +8,22 @@
 - 🌱 I'm interesting in programming with **Python**!
 - 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
 - 🌱 my blog：https://luhaozhhhe.github.io/ ,welcome to Luhaozhhhe's blog!
-- 🔭 Honors:
-  -  National Scholarship for the 2023-2024 Academic Year
-  -  First Prize in the Beijing-Tianjin-Hebei University Student Information Security Competition
+🔭 **Honors:**
+
+- **奖学金**
+  - 2023-2024学年度，国家奖学金（￥10000）
+  - 2022-2023学年度，学业优秀奖学金&文体奖学金（￥4000）
+- **CTF**
+  - 2025年西湖论剑 中国杭州网络安全技能大赛 rank:37/758
+  - 2024年京津冀大学生信息安全攻防大赛一等奖
+  - 2024年网鼎杯 网鼎之星（青龙组前150名）
+  - 2024年强网杯 强网先锋 rank:56/3000
+  - 2024年DASCTF&GFCTF rank:40/300
+  - 2024年XYCTF rank:50/1327
+  - 2024年H&NCTF rank:65/1183
+- **证书**
+  - 奇安信认证应急响应工程师，2024年10月10日-2027年10月10日
+  - 深信服SCSA-S认证，2024年12月10日-2027年12月10日
 
 
 
