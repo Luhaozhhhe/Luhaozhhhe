@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning **Cyber Science** and **Finance**!
 - 👯 I'm learning **Crypto**!
 - 🌱 I'm interesting in programming with **Python**!
-- 🤔 Please feel free to contact me : 2211044@mail.nankai.edu.cn if you are interested in my projects!
+- 🤔 Please feel free to contact me : 15058298819@163.com if you are interested in my projects!
 - 🌱 my blog：https://luhaozhhhe.github.io/ ,welcome to Luhaozhhhe's blog!
 - 🔭 **Honors:**
 
