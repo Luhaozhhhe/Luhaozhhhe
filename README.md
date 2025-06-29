@@ -14,11 +14,12 @@
     - 2023-2024学年度，**国家奖学金**（￥10000）；
     - 2025年，南开大学第二届**云安密码创新奖学金一等奖**（￥5000）；
     - 2022-2023学年度，南开大学**学业优秀奖学金&文体奖学金**（￥4000）。
-  - **CTF**
+  - **竞赛**
     - 2024年京津冀大学生信息安全攻防大赛，获得**一等奖**(rank2)；
     - 2024年网鼎杯，获得**网鼎之星**荣誉称号；
     - 2024年强网杯，获得**强网先锋**荣誉称号；
-    - 第十八届全国大学生信息安全竞赛(创新实践能力赛)暨第二届“长城杯”铁人三项赛(防护赛)半决赛，获得**三等奖**。
+    - 第十八届全国大学生信息安全竞赛(创新实践能力赛)暨第二届“长城杯”铁人三项赛(防护赛)半决赛，获得**三等奖**；
+    - 第十五届全国大学生数学竞赛（非数学A类）**三等奖**；
   - **证书**
     - 奇安信认证应急响应工程师，2024年10月10日-2027年10月10日；
     - 深信服SCSA-S认证，2024年12月10日-2027年12月10日；
@@ -46,6 +47,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Luhaozhhhe/count.s
 - **大二上：** 链接: https://pan.baidu.com/s/1iVTqx717vzqX3aJKVE8UBw?pwd=234s 提取码: 234s
 - **大二下：** 链接: https://pan.baidu.com/s/1__FSr1ReOOjt8keLCa3kJg?pwd=ss6a 提取码: ss6a
 - **大三上：** 链接: https://pan.baidu.com/s/1_pxvAHPRgdX_LLdPiVs-Yw?pwd=NKU1 提取码: NKU1
+- **大三下：** 链接: https://pan.baidu.com/s/15_KLo1wdIKpz_oLRuosBRg?pwd=NKU1 提取码: NKU1 
 - **信息安全全部课程笔记：** 链接: https://pan.baidu.com/s/1pjCjDxeJ-8Xm--pZgXFW7w?pwd=NKU1 提取码: NKU1
 
 <img  top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
