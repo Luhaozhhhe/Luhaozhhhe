@@ -1,47 +1,52 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Luhaozhhhe!;Welcome+to+my+homepage!)](https://github.com/Luhaozhhhe)
 
+I am currently an undergraduate student in the College of Cryptology and Cyber Science, Nankai University, majoring in Cyber Security and minoring in Finance. Please feel free to contact me through 15058298819@163.com if you are interested in my projects.
 
+## 🔭 Research Interests
 
-- 🔭 I'm currently an undergraduate student at **Nankai University**.
-- 🌱 I'm currently learning **Cyber Science** and **Finance**!
-- 👯 I'm learning **Crypto**!
-- 🌱 I'm interesting in programming with **Python**!
-- 🤔 Please feel free to contact me : 15058298819@163.com if you are interested in my projects!
-- 🌱 my blog：https://luhaozhhhe.github.io/ ,welcome to Luhaozhhhe's blog!
-- 🔭 **Honors:**
-
-  - **奖学金**
-    - 2023-2024学年度，**国家奖学金**（￥10000）；
-    - 2025年，南开大学第二届**云安密码创新奖学金一等奖**（￥5000）；
-    - 2022-2023学年度，南开大学**学业优秀奖学金&文体奖学金**（￥4000）。
-  - **竞赛**
-    - 2024年京津冀大学生信息安全攻防大赛，获得**一等奖**(rank2)；
-    - 2024年网鼎杯，获得**网鼎之星**荣誉称号；
-    - 2024年强网杯，获得**强网先锋**荣誉称号；
-    - 第十八届全国大学生信息安全竞赛(创新实践能力赛)暨第二届“长城杯”铁人三项赛(防护赛)半决赛，获得**三等奖**；
-    - 第十五届全国大学生数学竞赛（非数学A类）**三等奖**；
-  - **证书**
-    - 奇安信认证应急响应工程师，2024年10月10日-2027年10月10日；
-    - 深信服SCSA-S认证，2024年12月10日-2027年12月10日；
-    - NISP一级认证，2025年3月。
-  - **科研**
-    - RSA密码系统的特定密钥泄露攻击
-    - 基于大语言模型测定企业数字化转型
-    - 检索增强生成系统投毒攻击
-    - 启元九格大模型文本溯源算法
-    - 基于Zipf的口令分布函数建模
-    - 基于微调大模型的专家级漏洞检测系统
-    - ...
-  - **paper**
-    - continue...  
+- LLM Security
+- AI Security
+- AI4SE
 
 
 
-![Luhaozhhhe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhaozhhhe&layout=compact&hide_border=true&langs_count=10)
+## 🎖 Honors and Awards
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Luhaozhhhe/count.svg) visitor,Thank You!
+- 2024.12, National Scholarship(￥10000, Top 0.6%), China
+- 2025.04, First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University
+- 2023.10, Academic Excellence Scholarship(￥2000), Nankai University
+- 2023.10, Literary and Sports Scholarship(￥2000), Nankai University
+- 2024.09, The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin
+- 2024.11, Qiangwang Pioneer Prize of [Qiangwang Bei](https://www.qiangwangbei.com/), China
+- 2025.03, The 3rd Prize (CTF) of [National College Student information Security Contest](http://www.ciscn.cn/competition/securityCompetition), China
+- 2024.11, Wangding Star of [Wangding Bei](https://www.wangdingcup.com/index_list.html), China
+- 2023.12, Third prize of the 15th Chinese Mathematics Competitions, China
+- 2024.10, Qianxin Certified Emergency Response Engineer, China
+- 2024.12, Sangfor Certified Security Associate Service, China
+- 2025.03, National Information Security Test Program(Grade 1), China
+- 2024.05, Outstanding Youth League member, Nankai University
+- 2025.05, Outstanding Communist Youth League Cadre, Nankai University
+- 2024.11, Outstanding Student, Nankai University
+- ......
 
-## 南开大学计算机学院和网络空间安全学院课程和实验资料：
+
+
+## 📖 Educations
+
+- 2022.09 - 2026.06, undergraduate student in the College of Cryptology and Cyber Science, Nankai University
+
+
+
+## 📝 Publications 
+
+- continue...  
+
+
+
+## 💬 Others
+
+南开大学计算机学院和密码与网络空间安全学院 课程和实验资料：
+
 - **大一上：** 链接: https://pan.baidu.com/s/1myPJQb0Jp6uPDQd2qJAjaA?pwd=38q5 提取码: 38q5
 - **大一下：** 链接: https://pan.baidu.com/s/1eUDcMwn87KHkgidm1uHvWA?pwd=tj29 提取码: tj29
 - **大二上：** 链接: https://pan.baidu.com/s/1iVTqx717vzqX3aJKVE8UBw?pwd=234s 提取码: 234s
@@ -50,4 +55,3 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Luhaozhhhe/count.s
 - **大三下：** 链接: https://pan.baidu.com/s/15_KLo1wdIKpz_oLRuosBRg?pwd=NKU1 提取码: NKU1 
 - **信息安全全部课程笔记：** 链接: https://pan.baidu.com/s/1pjCjDxeJ-8Xm--pZgXFW7w?pwd=NKU1 提取码: NKU1
 
-<img  top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
