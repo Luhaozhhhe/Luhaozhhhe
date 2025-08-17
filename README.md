@@ -1,5 +1,4 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Luhaozhhhe!;Welcome+to+my+homepage!)](https://github.com/Luhaozhhhe)
-
 I am currently an undergraduate student in the College of Cryptology and Cyber Science, Nankai University, majoring in Cyber Security and minoring in Finance. Please feel free to contact me through 15058298819@163.com if you are interested in my projects.
 
 ## 🔭 Research Interests
@@ -34,7 +33,6 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 ## 📖 Educations
 
 - 2022.09 - 2026.06, undergraduate student in the College of Cryptology and Cyber Science, Nankai University
-
 
 
 ## 📝 Publications 
