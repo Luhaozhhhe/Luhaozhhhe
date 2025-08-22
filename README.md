@@ -11,7 +11,8 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 🎖 Honors and Awards
 
-- 2024.12, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
+-  2025.08, National Crypto-math Challenge(￥10000, Top 4), China（第十届全国高校密码数学挑战赛全国总决赛一等奖）；
+-  2024.12, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
 - 2025.04, First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University（云安密码创新奖学金一等奖）；
 - 2023.10, Academic Excellence Scholarship(￥2000), Nankai University（学业优秀奖学金）；
 - 2023.10, Literary and Sports Scholarship(￥2000), Nankai University（文体奖学金）；
