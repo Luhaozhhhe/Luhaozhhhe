@@ -13,6 +13,7 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 -  2025.08, The 1st prize of [National Crypto-math Challenge](https://mp.weixin.qq.com/s/s_k4A0qcHwXBW3SreGsyRQ)(￥10000, Top 4), China（第十届全国高校密码数学挑战赛全国总决赛一等奖，单赛道第一名，并参与特等奖答辩）；
 -  2025.07, The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region（第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道第一名）；
+-  2025.08, The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China（第一届全国大学生人工智能安全竞赛作品赛二等奖）；
 -  2024.12, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
 - 2025.04, First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University（云安密码创新奖学金一等奖）；
 - 2023.10, Academic Excellence Scholarship(￥2000), Nankai University（学业优秀奖学金）；
