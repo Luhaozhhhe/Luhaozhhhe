@@ -30,6 +30,7 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 - 2024.05, Outstanding Youth League member, Nankai University（南开大学优秀共青团员）；
 - 2025.05, Outstanding Communist Youth League Cadre, Nankai University（南开大学优秀共青团干部）；
 - 2024.11, Outstanding Student, Nankai University（南开大学三好学生）；
+- 2025.09, Excellent Teaching Assistant, Nankai University（南开大学优秀助教）；
 - ......
 
 
