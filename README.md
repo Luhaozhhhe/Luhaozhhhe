@@ -35,8 +35,17 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 📖 Educations
 
-- 2022.09 - 2026.06, undergraduate student in the College of Cryptology and Cyber Science, Nankai University
+<img align="right" width="60" src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/logos/CMU/Carnegie_Mellon_University_seal.png" />
 
+- **Major in Network and Information Security** &emsp; 📌 2026.09 — 2029.06
+  - School of Software and Microelectronics, Peking University, Beijing, China
+
+<img align="right" width="60" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/Nankai.png" />
+
+- **Major in Cyber Security & Minor in Finance** &emsp; 📌 2022.09 — 2026.06
+  - College of Cryptology and Cyber Science, Nankai University, Tianjin, China
+
+  
 
 ## 📝 Publications 
 
