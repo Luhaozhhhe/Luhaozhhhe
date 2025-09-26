@@ -11,10 +11,11 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 🎖 Honors and Awards
 
+-  2025.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
 -  2025.08, The 1st prize of [National Crypto-math Challenge](https://mp.weixin.qq.com/s/s_k4A0qcHwXBW3SreGsyRQ)(￥10000, Top 4), China（第十届全国高校密码数学挑战赛全国总决赛一等奖，单赛道第一名，并作为唯一本科生参与特等奖答辩）；
 -  2025.07, The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region（第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道第一名）；
 -  2025.08, The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China（第一届全国大学生人工智能安全竞赛作品赛二等奖）；
--  2024.12, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
+-  2024.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
 - 2025.04, First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University（云安密码创新奖学金一等奖）；
 - 2023.10, Academic Excellence Scholarship(￥2000), Nankai University（学业优秀奖学金）；
 - 2023.10, Literary and Sports Scholarship(￥2000), Nankai University（文体奖学金）；
@@ -35,12 +36,13 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 📖 Educations
 
-<img align="right" width="50" src="https://github.com/Luhaozhhhe/Luhaozhhhe/blob/main/PKU.png" />
+<img align="right" width="75" src="https://github.com/Luhaozhhhe/Luhaozhhhe/blob/main/PKU.png" />
 
 - **Major in Network and Information Security** &emsp; 📌 2026.09 — 2029.06
   - School of Software and Microelectronics, Peking University, Beijing, China
+<br>
 
-<img align="right" width="50" src="https://github.com/Luhaozhhhe/Luhaozhhhe/blob/main/NKU.png" />
+<img align="right" width="75" src="https://github.com/Luhaozhhhe/Luhaozhhhe/blob/main/NKU.png" />
 
 - **Major in Cyber Security & Minor in Finance** &emsp; 📌 2022.09 — 2026.06
   - College of Cryptology and Cyber Science, Nankai University, Tianjin, China
