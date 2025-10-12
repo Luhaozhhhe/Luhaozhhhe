@@ -11,27 +11,27 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 🎖 Honors and Awards
 
--  2025.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
--  2025.08, The 1st prize of [National Crypto-math Challenge](https://mp.weixin.qq.com/s/s_k4A0qcHwXBW3SreGsyRQ)(￥10000, Top 4), China（第十届全国高校密码数学挑战赛全国总决赛一等奖，单赛道第一名，并作为唯一本科生参与特等奖答辩）；
--  2025.07, The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region（第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道第一名）；
--  2025.10, The 1st prize of 2025 Beijing–Tianjin–Hebei Security Cup, Tianjin（2025年京津冀大学生信息安全网络攻防大赛决赛一等奖）；
--  2025.08, The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China（第一届全国大学生人工智能安全竞赛作品赛二等奖）；
--  2024.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
+- 2025.10, The 1st prize of 2025 Beijing–Tianjin–Hebei Security Cup, Tianjin（2025年京津冀大学生信息安全网络攻防大赛决赛一等奖）；
+- 2025.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
+- 2025.09, Excellent Teaching Assistant, Nankai University（南开大学优秀助教）；
+- 2025.08, The 1st prize of [National Crypto-math Challenge](https://mp.weixin.qq.com/s/s_k4A0qcHwXBW3SreGsyRQ)(￥10000, Top 4), China（第十届全国高校密码数学挑战赛全国总决赛一等奖，单赛道第一名，并作为唯一本科生参与特等奖答辩）；
+- 2025.08, The 2nd prize of [National AI Security Contest for College Students](https://mp.weixin.qq.com/s/OpAf9eXVn_wdsNrdve7mfQ), China（第一届全国大学生人工智能安全竞赛作品赛二等奖）；
+- 2025.07, The 1st prize of National Crypto-math Challenge(rank 1st), Huabei Region（第十届全国高校密码数学挑战赛华北赛区一等奖，单赛道第一名）；
+- 2025.05, Outstanding Communist Youth League Cadre, Nankai University（南开大学优秀共青团干部）；
 - 2025.04, First Prize of [Yun'an Scholarship](https://mp.weixin.qq.com/s/CTF8igqmYcOteFqi6dZI1g)(￥5000, Top 1.6%), Nankai University（云安密码创新奖学金一等奖）；
+- 2025.03, The 3rd Prize (CTF) of [National College Student information Security Contest](http://www.ciscn.cn/competition/securityCompetition), China（第十八届全国大学生信息安全竞赛创新实践能力赛半决赛三等奖）；
+- 2025.03, National Information Security Test Program(Grade 1), China（国家信息安全水平考试一级）；
+- 2024.12, Sangfor Certified Security Associate Service, China（深信服SCSA认证）；
+- 2024.11, Qiangwang Pioneer Prize of [Qiangwang Bei](https://www.qiangwangbei.com/), China（第八届强网杯“强网先锋”荣誉称号）；
+- 2024.11, Wangding Star of [Wangding Bei](https://www.wangdingcup.com/index_list.html), China（第四届网鼎杯“网鼎之星”荣誉称号）；
+- 2024.11, Outstanding Student, Nankai University（南开大学三好学生）；
+- 2024.10, Qianxin Certified Emergency Response Engineer, China（奇安信应急响应工程师认证）；
+- 2024.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
+- 2024.09, The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin（2024年京津冀大学生信息安全网络攻防大赛决赛一等奖）；
+- 2024.05, Outstanding Youth League member, Nankai University（南开大学优秀共青团员）；
+- 2023.12, Third prize of the 15th Chinese Mathematics Competitions, China（第十五届全国大学生数学竞赛三等奖）；
 - 2023.10, Academic Excellence Scholarship(￥2000), Nankai University（学业优秀奖学金）；
 - 2023.10, Literary and Sports Scholarship(￥2000), Nankai University（文体奖学金）；
-- 2024.09, The 1st prize of [2024 Beijing–Tianjin–Hebei Security Cup](https://www.tjise.edu.cn/info/1007/3442.htm), Tianjin（2024年京津冀大学生信息安全网络攻防大赛决赛一等奖）；
-- 2024.11, Qiangwang Pioneer Prize of [Qiangwang Bei](https://www.qiangwangbei.com/), China（第八届强网杯“强网先锋”荣誉称号）；
-- 2025.03, The 3rd Prize (CTF) of [National College Student information Security Contest](http://www.ciscn.cn/competition/securityCompetition), China（第十八届全国大学生信息安全竞赛创新实践能力赛半决赛三等奖）；
-- 2024.11, Wangding Star of [Wangding Bei](https://www.wangdingcup.com/index_list.html), China（第四届网鼎杯“网鼎之星”荣誉称号）；
-- 2023.12, Third prize of the 15th Chinese Mathematics Competitions, China（第十五届全国大学生数学竞赛三等奖）；
-- 2024.10, Qianxin Certified Emergency Response Engineer, China（奇安信应急响应工程师认证）；
-- 2024.12, Sangfor Certified Security Associate Service, China（深信服SCSA认证）；
-- 2025.03, National Information Security Test Program(Grade 1), China（国家信息安全水平考试一级）；
-- 2024.05, Outstanding Youth League member, Nankai University（南开大学优秀共青团员）；
-- 2025.05, Outstanding Communist Youth League Cadre, Nankai University（南开大学优秀共青团干部）；
-- 2024.11, Outstanding Student, Nankai University（南开大学三好学生）；
-- 2025.09, Excellent Teaching Assistant, Nankai University（南开大学优秀助教）；
 - ......
 
 
