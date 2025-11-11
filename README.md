@@ -11,6 +11,10 @@ I am currently an undergraduate student in the College of Cryptology and Cyber S
 
 ## 🎖 Honors and Awards
 
+- 2025.11, Excellent student, Tianjin（天津市优秀学生）；
+- 2025.11, Outstanding Student, Nankai University（南开大学三好学生）；
+- 2025.11, BYD Scholarship(￥10000, Top 0.6%), Nankai University（比亚迪奖学金）；
+- 2025.10, Changcheng Cup, China（2025年第五届“长城杯”网络安全大赛“安全卫士”称号）；
 - 2025.10, The 1st prize of 2025 Beijing–Tianjin–Hebei Security Cup, Tianjin（2025年京津冀大学生信息安全网络攻防大赛决赛一等奖）；
 - 2025.09, National Scholarship(￥10000, Top 0.6%), China（国家奖学金）；
 - 2025.09, Excellent Teaching Assistant, Nankai University（南开大学优秀助教）；
